@@ -1,0 +1,33 @@
+{
+  "name": "generator-s14-ngcomponent",
+  "version": "0.0.1",
+  "description": "a yoeman generator for angular component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismail221/generator-s14-ngcomponent.git"
+  },
+  "keywords": [
+    "yoeman-generator",
+    "angular",
+    "component",
+    "scaffold"
+  ],
+  "author": "Imam Ismail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismail221/generator-s14-ngcomponent/issues"
+  },
+  "homepage": "https://github.com/ismail221/generator-s14-ngcomponent#readme",
+  "dependencies": {
+    "decamelize": "^6.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^5.8.0"
+  },
+  "files": [
+    "app"
+  ]
+}
